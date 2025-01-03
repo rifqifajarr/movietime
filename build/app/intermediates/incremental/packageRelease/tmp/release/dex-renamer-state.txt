@@ -1,0 +1,4 @@
+#Fri Jan 03 20:07:02 WIB 2025
+base.0=/Users/rifqifajar/project/movie_time/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
