@@ -17,7 +17,7 @@ class HomeView extends GetView<HomeController> {
           gradient: AppGradients.backgroundGradient,
         ),
         child: Padding(
-          padding: EdgeInsets.all(20),
+          padding: EdgeInsets.fromLTRB(20, 28, 20, 0),
           child: Container(
             width: MediaQuery.of(context).size.width,
             height: MediaQuery.of(context).size.height,
